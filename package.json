@@ -1,0 +1,15 @@
+{
+  "name": "novasy-url-guard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "novasy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Novasy#0001",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "request": "^2.88.2"
+  }
+}
